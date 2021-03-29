@@ -1,0 +1,77 @@
+{
+    "courses": [
+        {
+          "name":"Den",
+          "day": 2,
+          "hour": 8,
+          "min": 30,
+          "url": "enescanguven.com"
+        },
+
+       {
+          "name":"EHB222",
+          "day": 0,
+          "hour": 8,
+          "min": 30,
+          "url": "enescanguven.com"
+       },
+ 
+       {
+          "name":"KON214",
+          "day": 0,
+          "hour": 19,
+          "min": 30,
+          "url": "enescanguven.com"
+       },
+       
+       {
+          "name":"ATA102",
+          "day": 1,
+          "hour": 10,
+          "min": 30,
+          "url": "enescanguven.com"
+       },
+
+       {
+          "name":"EHB212",
+          "day": 2,
+          "hour": 8,
+          "min": 30,
+          "url": "enescanguven.com"
+       },
+
+       {
+          "name":"EKO201",
+          "day": 3,
+          "hour": 8,
+          "min": 30,
+          "url": "enescanguven.com"
+       },
+
+       {
+          "name":"EHB252",
+          "day": 3,
+          "hour": 12,
+          "min": 30,
+          "url": "enescanguven.com"
+       },
+
+       {
+          "name":"KON218",
+          "day": 4,
+          "hour": 8,
+          "min": 30,
+          "url": "enescanguven.com"
+       },
+
+       {
+          "name":"TER201",
+          "day": 4,
+          "hour": 14,
+          "min": 30,
+          "url": "enescanguven.com"
+       }
+    ]
+ 
+
+ }
