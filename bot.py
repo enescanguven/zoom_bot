@@ -35,7 +35,7 @@ def check_time(day, hour, mint, course_day, course_hour, course_min):
         print("3")
         return True
   return False
-
+print("Waiting meeting time")
 while True:
   for i in range(number_of_courses):
     day = datetime.today().weekday()
@@ -44,10 +44,8 @@ while True:
     m = get_courses(i)
     a=check_time(day, hour, mint, m.day, m.hour, m.mint)
     if a == True:
-      print ("bağlanılıyor", m.name)
+      print ("connecting", m.name)
       webbrowser.get(chrome_path).open(m.url)
       exit()
 
   time.sleep(10)
-print("deneme")
-
