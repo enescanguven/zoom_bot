@@ -2,8 +2,8 @@
     "courses": [
         {
           "name":"Den",
-          "day": 2,
-          "hour": 8,
+          "day": 3,
+          "hour": 21,
           "min": 30,
           "url": "enescanguven.com"
         },
@@ -11,8 +11,8 @@
        {
           "name":"EHB222",
           "day": 0,
-          "hour": 8,
-          "min": 30,
+          "hour": 21,
+          "min": 40,
           "url": "enescanguven.com"
        },
  
